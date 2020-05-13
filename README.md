@@ -1,1 +1,1 @@
-# React-employee-directlry-
+# React-employee-directory
